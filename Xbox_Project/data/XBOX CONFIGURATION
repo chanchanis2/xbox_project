@@ -1,0 +1,22 @@
+Not Sure Yet
+LSX	Left Stick's X	3	SLIDER	x	0	1.0	0.0
+LSY	Left Stick's Y	3	SLIDER	y	0	1.0	0.0
+RSX	Right Stick's X	3	SLIDER	rx	0	1.0	0.0
+RSY	Right Stick's Y	3	SLIDER	ry	0	1.0	0.0
+LT	Left Trigger	3	SLIDER	z	0	1.0	0.0
+RT	Right Trigger	3	SLIDER	rz	0	1.0	0.0
+UP	Up Arrow	1	BUTTON	11	0	0.0	0.0
+DOWN	Down Arrow	1	BUTTON	12	0	0.0	0.0
+LEFT	Left Arrow	1	BUTTON	13	0	0.0	0.0
+RIGHT	Right Arrow	1	BUTTON	14	0	0.0	0.0
+START	Start Button	1	BUTTON	8	0	0.0	0.0
+BACK	Back Button	1	BUTTON	9	0	0.0	0.0
+LSB	Left Stick Button 	1	BUTTON	6	0	0.0	0.0
+RSB	Right Stick Button	1	BUTTON	7	0	0.0	0.0
+LB	Left Button 	1	BUTTON	4	0	0.0	0.0
+RB	Right Button	1	BUTTON	5	0	0.0	0.0
+XB	Xbox Button 	1	BUTTON	10	0	0.0	0.0
+A	A Button 	1	BUTTON	0	0	0.0	0.0
+B	B Button	1	BUTTON	1	0	0.0	0.0
+X	X Button	1	BUTTON	2	0	0.0	0.0
+Y	Y Button	1	BUTTON	3	0	0.0	0.0
